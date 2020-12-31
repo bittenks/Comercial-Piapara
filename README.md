@@ -11,6 +11,7 @@ Conheci o WordPress + Elementor , depois de muitos estudos de como eu poderia ad
 Eu sou uma pessoa exploradora de tecnologia, depois que eu consegui fazer pela plataforma do WordPress eu me interessei em estudar mais de desenvolvimento Web , hoje em dia eu estou estudando através de cursos da Udemy e RocketSeat, em busca de melhorar o meu conhecimento e criar apps e sites que ajudam as pessoas, o que eu já estou colocando em prática. Obrigado. <br/> 
 ## Site
 [Comercial Piapara](https://comercialpiapara.com/)
+![](http://i.imgur.com/giaKranh.gif)
 
 ### <i> Imagens <i/> 
 #### <i> Principal <i/>
@@ -21,3 +22,4 @@ Eu sou uma pessoa exploradora de tecnologia, depois que eu consegui fazer pela p
 ![alt text](https://github.com/bittenks/Comercial-Piapara/blob/main/loja.png)
 #### <i> Sobre <i/>
 ![alt text](https://github.com/bittenks/Comercial-Piapara/blob/main/sobre.png)
+!(http://i.imgur.com/giaKranh.gif)
