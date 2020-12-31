@@ -10,7 +10,7 @@ Um site para a empresa em que eu trabalho, e o pouco que eu sabia de desenvolvim
 Conheci o WordPress + Elementor , depois de muitos estudos de como eu poderia adaptar para o tema da empresa (Pesca) ,e por ser desse tema, sabendo que o publico não era o publico jovem eu optei em querer fazer o site mais simples e interativo, então eu criei o site e hospedei, depois foi a fase de testes, a fase de testes de compra , de entrega e adicionando aos poucos os produtos da empresa.<br/>
 Eu sou uma pessoa exploradora de tecnologia, depois que eu consegui fazer pela plataforma do WordPress eu me interessei em estudar mais de desenvolvimento Web , hoje em dia eu estou estudando através de cursos da Udemy e RocketSeat, em busca de melhorar o meu conhecimento e criar apps e sites que ajudam as pessoas, o que eu já estou colocando em prática. Obrigado. <br/> 
 ## Site
-[Comercial Piapara](https:www.comercialpiapara.com/)
+[Comercial Piapara](https://comercialpiapara.com/)
 
 ### <i> Imagens <i/> 
 #### <i> Principal <i/>
