@@ -22,4 +22,4 @@ Eu sou uma pessoa exploradora de tecnologia, depois que eu consegui fazer pela p
 ![alt text](https://github.com/bittenks/Comercial-Piapara/blob/main/loja.png)
 #### <i> Sobre <i/>
 ![alt text](https://github.com/bittenks/Comercial-Piapara/blob/main/sobre.png)
-!(http://i.imgur.com/giaKranh.gif)
+![alt text](http://i.imgur.com/giaKranh.gif)
